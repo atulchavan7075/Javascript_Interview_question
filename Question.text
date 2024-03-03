@@ -1,0 +1,29 @@
+Reverse a String: Write a function that reverses a string without using built-in functions.
+
+Check for Palindrome: Write a function to determine if a given string is a palindrome.
+
+Find the Factorial: Write a function to calculate the factorial of a given number.
+
+Fibonacci Sequence: Write a function to generate the nth Fibonacci number.
+
+Find the Maximum Difference: Given an array of integers, find the maximum difference between two elements in the array where the larger element appears after the smaller element.
+
+Two Sum: Given an array of integers and a target value, return indices of the two numbers such that they add up to the target.
+
+Merge Two Sorted Arrays: Given two sorted arrays, merge them into a single sorted array.
+
+Check for Anagrams: Write a function to determine if two strings are anagrams of each other.
+
+Remove Duplicates: Write a function that removes duplicates from an array without using built-in functions.
+
+Reverse a Linked List: Implement a function to reverse a singly linked list.
+
+Binary Search: Implement the binary search algorithm to find the index of a given element in a sorted array.
+
+Implement Stack and Queue: Implement a stack and a queue data structure using arrays or linked lists.
+
+Depth-First Search (DFS) and Breadth-First Search (BFS): Implement DFS and BFS algorithms for traversing a graph.
+
+Implement Quick Sort or Merge Sort: Implement the quick sort or merge sort algorithm to sort an array of integers.
+
+Find the Longest Substring Without Repeating Characters: Given a string, find the length of the longest substring without repeating characters.
